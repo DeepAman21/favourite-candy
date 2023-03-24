@@ -1,0 +1,47 @@
+
+  
+ @import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Julee&family=Zeyada&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Delicious+Handrawn&family=Rubik+Iso&display=swap');
+  body {
+    font-family:'delicious',sans-serif;
+    background-color: #d4c8c8;
+    text-align: center;
+  }
+  
+  
+  header {
+    font-family: 'Hand-Drawn',sans-serif;
+    background-color: #cec14a;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  header h1 {
+    font-family: 'Zeyada', cursive;
+    font-size: 3rem;
+  }
+
+  h2{
+    font-family: 'julee', sans-serif;
+  }
+  
+  
+  main {
+    max-width: 700px;
+    margin: 0 auto;
+    padding:0cm;
+  }
+  
+  section {
+    margin-bottom: 1.5rem;
+  }
+  
+  section h2 {
+    margin-bottom: 2rem;
+  }
+  
+  ul {
+    list-style:armenian;
+    margin-left: 2.5rem;
+  }
